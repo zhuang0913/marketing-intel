@@ -30,7 +30,7 @@ jobs:
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-        run: python collector/export_data.py
+        run: python marketing-intel/collector/export_data.py
 
       - name: 检查变更
         id: check
