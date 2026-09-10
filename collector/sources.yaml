@@ -1,0 +1,152 @@
+# ============================================================
+# 营销情报数据源清单
+# ------------------------------------------------------------
+# 支持两种数据源类型：
+#   type: rss       —— 原生 RSS 地址 / RSSHub 路由（feedparser 抓取）
+#   type: scraper   —— 自定义 Python 爬虫（在 scrapers/ 下注册）
+#
+# 公众号源走 RSSHub 的微信路由（/wechat/ce/:mid），无需额外服务。
+# 如要自建 RSSHub，修改下方 rsshub_base 即可。
+#
+# 每个源建议都填上 original_url（源站首页），采集脚本会在抓取失败时
+# 把这个链接和实际抓取 URL 一并打印到日志，方便排查和切源。
+# ============================================================
+
+rsshub_base: "https://rsshub.app"
+
+sources:
+  # ---------- 行业研报 ----------
+  - name: CBNData 消费站
+    category: 行业研报
+    rsshub: /cbndata/information
+    original_url: https://www.cbndata.com/
+  - name: 艾瑞咨询
+    category: 行业研报
+    rsshub: /iresearch/report
+    original_url: https://www.iresearch.com.cn/
+  - name: 199IT 互联网数据资讯网
+    category: 行业研报
+    url: https://www.199it.com/feed
+    original_url: https://www.199it.com/
+  - name: QuestMobile
+    category: 行业研报
+    rsshub: /questmobile/report
+    original_url: https://www.questmobile.com.cn/
+  - name: 麦肯锡中国
+    category: 行业研报
+    rsshub: /mckinseychina/latest
+    original_url: https://www.mckinsey.com.cn/
+  - name: 易观分析
+    category: 行业研报
+    rsshub: /analysys/report
+    original_url: https://www.analysys.cn/
+
+  # ---------- 平台洞察（公众号）----------
+  # 微信公众号源：RSSHub 的 /wechat/ce/:mid 路由，把公众号转成 RSS。
+  # 公共实例 rsshub.app 频率有限，建议在 routes.yaml 找到这些公众号 ID。
+  - name: 巨量引擎营销观察
+    category: 平台洞察
+    rsshub: /wechat/ce/oceanengine845
+    original_url: https://oceanengine.com/
+  - name: 阿里妈妈经营指南
+    category: 平台洞察
+    rsshub: /wechat/ce/alimama2017
+    original_url: https://www.alimama.com/
+  - name: 微信公开课
+    category: 平台洞察
+    rsshub: /wechat/ce/wx-gongkaike
+    original_url: https://open.weixin.qq.com/
+  - name: 京东商家中心
+    category: 平台洞察
+    rsshub: /jdfinance/hangye
+    original_url: https://jzt.jd.com/
+  - name: TikTok for Business 营销观察
+    category: 平台洞察
+    rsshub: /tiktok/hashtag/marketing
+    original_url: https://ads.tiktok.com/
+
+  # ---------- 电商知识 ----------
+  - name: 亿邦动力
+    category: 电商知识
+    url: https://www.ebrun.com/rss
+    original_url: https://www.ebrun.com/
+  - name: 电商报
+    category: 电商知识
+    rsshub: /dsb/zw
+    original_url: https://www.dsb.cn/
+  - name: 派代网
+    category: 电商知识
+    url: https://www.paidai.com/rss
+    original_url: https://www.paidai.com/
+  - name: 天下网商
+    category: 电商知识
+    rsshub: /wechat/ce/iwshang
+    original_url: https://www.iwshang.com/
+  - name: 跨境电商资讯（雨果网）
+    category: 电商知识
+    rsshub: /cifnews/index
+    original_url: https://www.cifnews.com/
+
+  # ---------- 广告营销 ----------
+  # 数英/SocialBeta/广告门：三个核心站用 scraper（路由频繁失效，自建爬虫更稳）
+  - name: 数英网
+    type: scraper
+    scraper: shuying
+    category: 广告知识
+    params:
+      max_pages: 2
+    original_url: https://www.digitaling.com/
+  - name: SocialBeta
+    type: scraper
+    scraper: socialbeta
+    category: 广告知识
+    original_url: https://socialbeta.com/
+  - name: 广告门
+    type: scraper
+    scraper: adaomou
+    category: 广告知识
+    original_url: https://www.adquan.com/
+
+  # ---------- 产品知识 ----------
+  - name: 人人都是产品经理
+    category: 产品知识
+    url: https://www.woshipm.com/feed
+    original_url: https://www.woshipm.com/
+  - name: PMCAFF
+    category: 产品知识
+    rsshub: /pmcaff/daily
+    original_url: https://www.pmcaff.com/
+  - name: 少数派
+    category: 产品知识
+    url: https://sspai.com/feed
+    original_url: https://sspai.com/
+  - name: 爱范儿
+    category: 产品知识
+    url: https://www.ifanr.com/feed
+    original_url: https://www.ifanr.com/
+
+  # ---------- 商业趋势 ----------
+  - name: 36氪
+    category: 商业趋势
+    url: https://36kr.com/feed
+    original_url: https://36kr.com/
+  - name: 虎嗅
+    category: 商业趋势
+    url: https://www.huxiu.com/rss/0.xml
+    original_url: https://www.huxiu.com/
+  - name: 晚点LatePost
+    category: 商业趋势
+    rsshub: /wechat/ce/latepost5
+    original_url: https://www.latepost.com/
+  - name: 钛媒体
+    category: 商业趋势
+    url: https://www.tmtpost.com/feed
+    original_url: https://www.tmtpost.com/
+  - name: 界面新闻-消费
+    category: 商业趋势
+    url: https://www.jiemian.com/rss/2.xml
+    original_url: https://www.jiemian.com/
+  - name: 窄播
+    category: 商业趋势
+    rsshub: /wechat/ce/zhai-bo
+    original_url: https://mp.weixin.qq.com/s?__biz=MzA5MzQ3Mzk1OQ==
