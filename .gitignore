@@ -1,0 +1,17 @@
+# 本地凭证 —— 绝对不要提交到 git
+.env.local
+collector/.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 采集产物
+collector/*.log
+out/
