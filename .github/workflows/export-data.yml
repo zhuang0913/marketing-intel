@@ -51,4 +51,5 @@ jobs:
           git config user.email "marketing-intel-bot@local"
           git add docs/data.json
           git commit -m "data: update Notion export ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
-          # Pages 在 push 到 main 后会自动重新部署
+          git push origin main
+          echo "✅ data.json 已推送到 main"
