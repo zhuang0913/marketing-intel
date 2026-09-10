@@ -1,0 +1,31 @@
+name: 每日营销情报采集
+
+on:
+  schedule:
+    # UTC 时间 02:00 = 北京时间 10:00，每天执行一次
+    # GitHub Actions 的 cron 最多可能延迟 15-30 分钟，属正常现象
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}   # 支持在 Actions 页面手动触发
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r collector/requirements.txt
+
+      - name: 执行采集
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          MAX_DAYS: "3"
+          MAX_PER_SOURCE: "5"
+        run: python collector/fetch_rss.py
