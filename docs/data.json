@@ -1,8 +1,4427 @@
 {
-  "fetched_at": "2026-11-19T04:17:42Z",
-  "count": 2371,
+  "fetched_at": "2026-11-19T13:37:33Z",
+  "count": 2400,
   "database_id": "3d7affc3590d8165ae61e55952d6466a",
   "results": [
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81d5-b107-d6332857cd65",
+      "created_time": "2026-11-19T10:15:00.000Z",
+      "last_edited_time": "2026-11-19T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "要是真想完全“去黄化”，只靠舆论也是有些难度的。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "要是真想完全“去黄化”，只靠舆论也是有些难度的。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "5f4a010b-fd14-48ab-af75-d1d5e3f7aaff",
+            "name": "钛媒体",
+            "color": "pink"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.tmtpost.com/8210307.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "f01e0e31-b54e-4f57-ab6f-791569a47c43",
+            "name": "商业趋势",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "拒绝黄仁勋回归还不够，英伟达开始围剿他女儿了",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "拒绝黄仁勋回归还不够，英伟达开始围剿他女儿了",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d81d5b107d6332857cd65",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8118-84d0-d3d831dabb4b",
+      "created_time": "2026-11-19T10:15:00.000Z",
+      "last_edited_time": "2026-11-19T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "PCIe 6.0 SSD量产的真正价值，不是让存储设备跑出一个更漂亮的速度数字，而是让AI基础设施有机会重新算一笔账。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "PCIe 6.0 SSD量产的真正价值，不是让存储设备跑出一个更漂亮的速度数字，而是让AI基础设施有机会重新算一笔账。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "5f4a010b-fd14-48ab-af75-d1d5e3f7aaff",
+            "name": "钛媒体",
+            "color": "pink"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.tmtpost.com/8210529.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "f01e0e31-b54e-4f57-ab6f-791569a47c43",
+            "name": "商业趋势",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "国内首款Gen6 SSD量产，AI存储重算经济帐",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "国内首款Gen6 SSD量产，AI存储重算经济帐",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Gen6-SSD-AI-41daffc3590d811884d0d3d831dabb4b",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-813a-a59a-edfe990ba8bf",
+      "created_time": "2026-11-19T10:15:00.000Z",
+      "last_edited_time": "2026-11-19T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than permanent dilution.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than permanent dilution.",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "5f4a010b-fd14-48ab-af75-d1d5e3f7aaff",
+            "name": "钛媒体",
+            "color": "pink"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.tmtpost.com/8211189.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "f01e0e31-b54e-4f57-ab6f-791569a47c43",
+            "name": "商业趋势",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Banks Are Turning AI Compute Bills Into Working Capital",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Banks Are Turning AI Compute Bills Into Working Capital",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Banks-Are-Turning-AI-Compute-Bills-Into-Working-Capital-41daffc3590d813aa59aedfe990ba8bf",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-812b-993b-f3970316766d",
+      "created_time": "2026-11-19T10:15:00.000Z",
+      "last_edited_time": "2026-11-19T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Google X创始人、马斯克背后长期资本创始人、洛克菲勒国际主席、斯坦福顶尖科学家，哥伦比亚大学AI监管权威专家、还有多位AI创新与生命科技领军人物齐聚，提前预判2027，全球技术与资金将走向何处？",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Google X创始人、马斯克背后长期资本创始人、洛克菲勒国际主席、斯坦福顶尖科学家，哥伦比亚大学AI监管权威专家、还有多位AI创新与生命科技领军人物齐聚，提前预判2027，全球技术与资金将走向何处？",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "fc22ea49-75a4-465c-8f3d-bf9287f5cb3e",
+              "name": "产品创新",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "5f4a010b-fd14-48ab-af75-d1d5e3f7aaff",
+            "name": "钛媒体",
+            "color": "pink"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.tmtpost.com/8210519.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "f01e0e31-b54e-4f57-ab6f-791569a47c43",
+            "name": "商业趋势",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "钛媒体硅谷峰会震撼开启，马斯克背后传奇投资人、Google X创始人、全球AI及投资领军者齐聚斯坦福",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "钛媒体硅谷峰会震撼开启，马斯克背后传奇投资人、Google X创始人、全球AI及投资领军者齐聚斯坦福",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Google-X-AI-41daffc3590d812b993bf3970316766d",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81b2-8286-f944758c692e",
+      "created_time": "2026-11-19T10:15:00.000Z",
+      "last_edited_time": "2026-11-19T10:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "睿能拟控股博泰智能。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "睿能拟控股博泰智能。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "5f4a010b-fd14-48ab-af75-d1d5e3f7aaff",
+            "name": "钛媒体",
+            "color": "pink"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.tmtpost.com/8211241.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "f01e0e31-b54e-4f57-ab6f-791569a47c43",
+            "name": "商业趋势",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "睿能科技拟控股博泰智能，5亿作价押注锂电，2027年周期隐忧待考",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "睿能科技拟控股博泰智能，5亿作价押注锂电，2027年周期隐忧待考",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/5-2027-41daffc3590d81b28286f944758c692e",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81e0-8818-d585105a7e33",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "有想法就是入场券。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "有想法就是入场券。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "fc22ea49-75a4-465c-8f3d-bf9287f5cb3e",
+              "name": "产品创新",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-18",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39be5ad5-36e1-493f-aeb7-6b50d492abf5",
+            "name": "爱范儿",
+            "color": "default"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "这届高校学生，为何选择用鸿蒙创新？",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "这届高校学生，为何选择用鸿蒙创新？",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d81e08818d585105a7e33",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8185-9e2a-e3dfa16da323",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "fc22ea49-75a4-465c-8f3d-bf9287f5cb3e",
+              "name": "产品创新",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-18",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39be5ad5-36e1-493f-aeb7-6b50d492abf5",
+            "name": "爱范儿",
+            "color": "default"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/GTA-VI-41daffc3590d81859e2ae3dfa16da323",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81ea-95b9-da8391dda1c5",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "360906f3-a607-4f49-bc87-e8923ec40c3c",
+              "name": "定价策略",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-18",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39be5ad5-36e1-493f-aeb7-6b50d492abf5",
+            "name": "爱范儿",
+            "color": "default"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Gemini-4-Neon-Opus-5-5-41daffc3590d81ea95b9da8391dda1c5",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81dd-bddc-f050b334816a",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "360906f3-a607-4f49-bc87-e8923ec40c3c",
+              "name": "定价策略",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "ec646a37-43a5-4b4c-981c-c224b1752cd2",
+              "name": "3C数码",
+              "color": "blue"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39be5ad5-36e1-493f-aeb7-6b50d492abf5",
+            "name": "爱范儿",
+            "color": "default"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/GTA6-800-41daffc3590d81ddbddcf050b334816a",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81d0-b4e2-cb078803e7f3",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "英伟达何去何从 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "英伟达何去何从 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39be5ad5-36e1-493f-aeb7-6b50d492abf5",
+            "name": "爱范儿",
+            "color": "default"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d81d0b4e2cb078803e7f3",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81b5-9b09-fefdbb024e8c",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ... 查看全文",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-18",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "946ab637-04e7-4006-824c-a36c32496b6b",
+            "name": "少数派",
+            "color": "green"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://sspai.com/post/118985"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/10-7-41daffc3590d81b59b09fefdbb024e8c",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8129-93f4-c219c91470da",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。 查看全文",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。 查看全文",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "946ab637-04e7-4006-824c-a36c32496b6b",
+            "name": "少数派",
+            "color": "green"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://sspai.com/post/119239"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Apple-TGA-2026-41daffc3590d812993f4c219c91470da",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8137-b2a1-d8175e7ffcb3",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "946ab637-04e7-4006-824c-a36c32496b6b",
+            "name": "少数派",
+            "color": "green"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://sspai.com/post/119039"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d8137b2a1d8175e7ffcb3",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8183-bb9b-fb69d7c86783",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "[......] 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "[......] 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "fa243f29-1cc4-49ea-9c63-f522d53456fa",
+              "name": "私域运营",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "946ab637-04e7-4006-824c-a36c32496b6b",
+            "name": "少数派",
+            "color": "green"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/macOS-27-3-41daffc3590d8183bb9bfb69d7c86783",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81b6-a198-f8c58c39e318",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "当C端AI产品用广告贩卖“陪伴式创作”的幻想，用户却遭遇“两轮即忘”的尴尬；而DeepSeek几乎不打广告，用户反而追着喊“求你收我钱”。这背后是工具逻辑与关系逻辑的深层悖论：用户要的不是功能，而是被接住的在场感。本文拆解这一反常识信号，揭示伙伴感如何成为通用AI的隐性刚需，以及留存指标失真的真相。 长期观察C端AI产品生态——这里特指面向普通用户的AI聊天助手形态，而非B端API或企业服务——最近撞见一个反常识的留存信号。 一边是铺天盖地的投放：春晚冠名、综艺植入、小红书上”帮你写小说”的钩子。用户被”陪伴式创作”的叙事吸引进场，带着写一部长篇的期待。结果关掉窗口再回来，它不认得你；连续聊几",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "当C端AI产品用广告贩卖“陪伴式创作”的幻想，用户却遭遇“两轮即忘”的尴尬；而DeepSeek几乎不打广告，用户反而追着喊“求你收我钱”。这背后是工具逻辑与关系逻辑的深层悖论：用户要的不是功能，而是被接住的在场感。本文拆解这一反常识信号，揭示伙伴感如何成为通用AI的隐性刚需，以及留存指标失真的真相。 长期观察C端AI产品生态——这里特指面向普通用户的AI聊天助手形态，而非B端API或企业服务——最近撞见一个反常识的留存信号。 一边是铺天盖地的投放：春晚冠名、综艺植入、小红书上”帮你写小说”的钩子。用户被”陪伴式创作”的叙事吸引进场，带着写一部长篇的期待。结果关掉窗口再回来，它不认得你；连续聊几",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "02308f9c-2803-45c1-879e-5335f808e507",
+            "name": "人人都是产品经理",
+            "color": "purple"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.woshipm.com/share/6496556.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "从工具逻辑到关系逻辑：C端AI的留存悖论",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "从工具逻辑到关系逻辑：C端AI的留存悖论",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/C-AI-41daffc3590d81b6a198f8c58c39e318",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81b5-86c5-c61fa95f2791",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "这是昨天客户的原话：同行投放量比她大得多，赚的却没她多。扩量对产品扎实的商家是加分，对同质化的商家却可能加速失败——这篇算的是投放背后那笔经营账：客群是谁、复购从哪来、产品怎么组合。 她投放量很大，但是没有我赚的多，这是昨天客户的原话。 在投放期间，总会陷入一种，广告投放量越大、用户人群越多，成交转化越多的理想预期。这种预期是平台需要、投手喜欢、客户赞成的情况。 扩量对于商业模式完善、产品结构扎实、在线下门店经营成功的客户，这无疑是件加分的事情，在平台流量便宜的时候薅流量。 但对于产品同质化、商业模式未清晰的商家，盲目提升广告预算，大概率会加速失败； 相比增加投流预算，思考背后的经营要难得多，",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "这是昨天客户的原话：同行投放量比她大得多，赚的却没她多。扩量对产品扎实的商家是加分，对同质化的商家却可能加速失败——这篇算的是投放背后那笔经营账：客群是谁、复购从哪来、产品怎么组合。 她投放量很大，但是没有我赚的多，这是昨天客户的原话。 在投放期间，总会陷入一种，广告投放量越大、用户人群越多，成交转化越多的理想预期。这种预期是平台需要、投手喜欢、客户赞成的情况。 扩量对于商业模式完善、产品结构扎实、在线下门店经营成功的客户，这无疑是件加分的事情，在平台流量便宜的时候薅流量。 但对于产品同质化、商业模式未清晰的商家，盲目提升广告预算，大概率会加速失败； 相比增加投流预算，思考背后的经营要难得多，",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "b34054d2-c032-4ab3-a56d-40880f4b1bc8",
+              "name": "消费者洞察",
+              "color": "orange"
+            },
+            {
+              "id": "61d7286b-97b8-41b9-add1-1883b5453f8a",
+              "name": "渠道运营",
+              "color": "orange"
+            },
+            {
+              "id": "fa243f29-1cc4-49ea-9c63-f522d53456fa",
+              "name": "私域运营",
+              "color": "orange"
+            },
+            {
+              "id": "e66395ec-8b76-41f2-80fe-50760c9faeb1",
+              "name": "增长黑客",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "02308f9c-2803-45c1-879e-5335f808e507",
+            "name": "人人都是产品经理",
+            "color": "purple"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.woshipm.com/share/6496635.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "22898b18-dc44-41e1-a18d-0a1104fb5036",
+            "name": "平台洞察",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "她投放量很大，但没我赚得多",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "她投放量很大，但没我赚得多",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d81b586c5c61fa95f2791",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8110-bb47-f0fde41bfdcd",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "贷后催收系统搭建常陷入流程优先的误区，却忽略了借贷模式才是决定字段、台账与合规规则的根源。本文系统梳理信用卡、消费贷、抵押贷、质押贷等零售借贷资产类型，从债权本源出发，为产品经理提供架构设计的底层逻辑与实操指南。 一、核心设计逻辑 很多贷后、催收、法催产品经理在搭建系统时，容易本末倒置：优先打磨催收工单流程、电催话术、法催节点，却忽略了 借贷业务本源 。 所有催收流程、案件字段、台账结构、合规规则、起诉案由、处置权限，全部由底层借贷模式决定 。借贷关系是逾期与催收的起源，不同类型的零售借贷资产，其债权属性、合同依据、核心数据字段、台账维度、追偿流程、风险边界完全不同。 如果无法区分信用卡、消费",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "贷后催收系统搭建常陷入流程优先的误区，却忽略了借贷模式才是决定字段、台账与合规规则的根源。本文系统梳理信用卡、消费贷、抵押贷、质押贷等零售借贷资产类型，从债权本源出发，为产品经理提供架构设计的底层逻辑与实操指南。 一、核心设计逻辑 很多贷后、催收、法催产品经理在搭建系统时，容易本末倒置：优先打磨催收工单流程、电催话术、法催节点，却忽略了 借贷业务本源 。 所有催收流程、案件字段、台账结构、合规规则、起诉案由、处置权限，全部由底层借贷模式决定 。借贷关系是逾期与催收的起源，不同类型的零售借贷资产，其债权属性、合同依据、核心数据字段、台账维度、追偿流程、风险边界完全不同。 如果无法区分信用卡、消费",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "02308f9c-2803-45c1-879e-5335f808e507",
+            "name": "人人都是产品经理",
+            "color": "purple"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.woshipm.com/pd/6495804.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "零售不良贷后全业务模式拆解：信用卡、信贷、抵押、租赁全景图谱",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "零售不良贷后全业务模式拆解：信用卡、信贷、抵押、租赁全景图谱",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d8110bb47f0fde41bfdcd",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8109-b3df-d373a8d63055",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "工作创业十多年，村长看过太多公司倒掉，结论是创业必须极致：老板要真的懂行、要全心投入，不多养一人，也不浪费多余的一分钱。六条标准直白到可以照着自己公司对一遍，差在哪里一眼就看见。 工作创业十多年，绝大多数的企业倒闭，我一点也不感到意外。 因为这些企业在发展的过程中，都太铺张浪费了，都犯了很多常识性的错误。 按照我个人的经验来说，我觉得想要创业成功，唯有极致创业才行。 那么何为极致创业？ 我想说一说我的理解。 01 老板要真的懂行 在我从业的经历中，至少有三段经历，遇见的老板对于自己在做的事情都是不专业的。 其实一开始不专业可以理解，但是到了公司场地租了、人也招了，小程序APP也开发了，许多老板",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "工作创业十多年，村长看过太多公司倒掉，结论是创业必须极致：老板要真的懂行、要全心投入，不多养一人，也不浪费多余的一分钱。六条标准直白到可以照着自己公司对一遍，差在哪里一眼就看见。 工作创业十多年，绝大多数的企业倒闭，我一点也不感到意外。 因为这些企业在发展的过程中，都太铺张浪费了，都犯了很多常识性的错误。 按照我个人的经验来说，我觉得想要创业成功，唯有极致创业才行。 那么何为极致创业？ 我想说一说我的理解。 01 老板要真的懂行 在我从业的经历中，至少有三段经历，遇见的老板对于自己在做的事情都是不专业的。 其实一开始不专业可以理解，但是到了公司场地租了、人也招了，小程序APP也开发了，许多老板",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "fa243f29-1cc4-49ea-9c63-f522d53456fa",
+              "name": "私域运营",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "02308f9c-2803-45c1-879e-5335f808e507",
+            "name": "人人都是产品经理",
+            "color": "purple"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.woshipm.com/share/6496615.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "e04613eb-8435-4454-89a7-433b8fba80b1",
+            "name": "产品知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "极致创业，才更容易成功！",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "极致创业，才更容易成功！",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d8109b3dfd373a8d63055",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81c3-a982-d4265ef9ed83",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "基元律动把 NeoHorse 1.5 丢进真实工作流：180B 总参、每次只激活 6B，靠自家平台攒下的结构化执行轨迹接着训。我拿 mg-studio 这套 Skill 当考题，让它跑分镜、素材合成和渲染自检，看一个 6B 激活的 Agent 模型能干到哪一步。 前两天刚测完阿里的旗舰 Qwen4-Max，「源神」确实一直很稳。而且除了旗舰能打，开源生态也做得很好：光是 Hugging Face 上，基于 千问Qwen衍生的开源模型 就已经超过 20 万个 ，排全球第一。 底座好，拿去微调的团队就多。 那微调模型一般图啥？常见的是为了更契合自家业务，或者做垂直领域的适配。 这两天我就上手了一个",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "基元律动把 NeoHorse 1.5 丢进真实工作流：180B 总参、每次只激活 6B，靠自家平台攒下的结构化执行轨迹接着训。我拿 mg-studio 这套 Skill 当考题，让它跑分镜、素材合成和渲染自检，看一个 6B 激活的 Agent 模型能干到哪一步。 前两天刚测完阿里的旗舰 Qwen4-Max，「源神」确实一直很稳。而且除了旗舰能打，开源生态也做得很好：光是 Hugging Face 上，基于 千问Qwen衍生的开源模型 就已经超过 20 万个 ，排全球第一。 底座好，拿去微调的团队就多。 那微调模型一般图啥？常见的是为了更契合自家业务，或者做垂直领域的适配。 这两天我就上手了一个",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "02308f9c-2803-45c1-879e-5335f808e507",
+            "name": "人人都是产品经理",
+            "color": "purple"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.woshipm.com/ai/6496704.html"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "22898b18-dc44-41e1-a18d-0a1104fb5036",
+            "name": "平台洞察",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "一手实测 NeoHorse 1.5：6B 激活专攻干活，有点东西！【附开源 MG Skill】",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "一手实测 NeoHorse 1.5：6B 激活专攻干活，有点东西！【附开源 MG Skill】",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/NeoHorse-1-5-6B-MG-Skill-41daffc3590d81c3a982d4265ef9ed83",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-811d-9885-fbc087e578db",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "9b984ec6-3665-442f-9fc0-91423534e846",
+            "name": "广告门",
+            "color": "gray"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.adquan.com/article/365621"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "洁柔×赞萌露比联名：女明星闪亮登场“纸”为给你快乐",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "洁柔×赞萌露比联名：女明星闪亮登场“纸”为给你快乐",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d811d9885fbc087e578db",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8177-9e2d-efe11c57b760",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "9b984ec6-3665-442f-9fc0-91423534e846",
+            "name": "广告门",
+            "color": "gray"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.adquan.com/article/365629"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "22898b18-dc44-41e1-a18d-0a1104fb5036",
+            "name": "平台洞察",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "消费恢复受预期制约，需求侧补贴之外，更需以政策激励品牌和广告公司创造消费理由、激活场景。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "消费恢复受预期制约，需求侧补贴之外，更需以政策激励品牌和广告公司创造消费理由、激活场景。",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d81779e2defe11c57b760",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8118-98e9-e999a29f3c57",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "9b984ec6-3665-442f-9fc0-91423534e846",
+            "name": "广告门",
+            "color": "gray"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.adquan.com/article/365637"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "宗申摩托“借鉴”小牛广告，你怎么看？",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "宗申摩托“借鉴”小牛广告，你怎么看？",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d811898e9e999a29f3c57",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-818c-a1b1-fe14292a54f8",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-17",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "9b984ec6-3665-442f-9fc0-91423534e846",
+            "name": "广告门",
+            "color": "gray"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.adquan.com/article/365572"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "旨在合规框架下放大明星代言内容的生产效率，同时管控肖像、声音等数字IP风险。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "旨在合规框架下放大明星代言内容的生产效率，同时管控肖像、声音等数字IP风险。",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/IP-41daffc3590d818ca1b1fe14292a54f8",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-8187-be9c-ecb348414e5d",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "e66395ec-8b76-41f2-80fe-50760c9faeb1",
+              "name": "增长黑客",
+              "color": "orange"
+            }
+          ]
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "9b984ec6-3665-442f-9fc0-91423534e846",
+            "name": "广告门",
+            "color": "gray"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://www.adquan.com/article/365614"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BLG夺冠引爆全网，超200品牌涌入B站庆功场景互动，将赛事热点转化为品牌参与式营销范例。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BLG夺冠引爆全网，超200品牌涌入B站庆功场景互动，将赛事热点转化为品牌参与式营销范例。",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BLG-200-B-41daffc3590d8187be9cecb348414e5d",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81ea-b8d8-fff78fdc5d5f",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39b12ed7-b08b-44ad-978f-9d68d941c7fe",
+            "name": "SocialBeta",
+            "color": "brown"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://socialbeta.com/campaign/29038"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BEAMS × adidas 碰撞校园风与不良少年",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BEAMS × adidas 碰撞校园风与不良少年",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BEAMS-adidas-41daffc3590d81eab8d8fff78fdc5d5f",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81ea-85c0-c708ac9d1ccd",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39b12ed7-b08b-44ad-978f-9d68d941c7fe",
+            "name": "SocialBeta",
+            "color": "brown"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://socialbeta.com/campaign/29033"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "茉酸奶你究竟还有多少奶牛的饭拍！",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "茉酸奶你究竟还有多少奶牛的饭拍！",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d81ea85c0c708ac9d1ccd",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-815e-8760-ea8d9fc3f08b",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39b12ed7-b08b-44ad-978f-9d68d941c7fe",
+            "name": "SocialBeta",
+            "color": "brown"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://socialbeta.com/campaign/29046"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "《后会友期》迎来了最合适的赞助商！",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "《后会友期》迎来了最合适的赞助商！",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/41daffc3590d815e8760ea8d9fc3f08b",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81f5-81e9-e793382ee054",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39b12ed7-b08b-44ad-978f-9d68d941c7fe",
+            "name": "SocialBeta",
+            "color": "brown"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://socialbeta.com/article/111509"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "周四不慌，Let's 娱乐营销",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "周四不慌，Let's 娱乐营销",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Let-s-41daffc3590d81f581e9e793382ee054",
+      "public_url": null,
+      "archived": false
+    },
+    {
+      "object": "page",
+      "id": "41daffc3-590d-81dd-baef-daa5a1190960",
+      "created_time": "2026-11-19T10:13:00.000Z",
+      "last_edited_time": "2026-11-19T10:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d7affc3-590d-8129-9855-0027c3ecd35e"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "3d7affc3-590d-8165-ae61-e55952d6466a"
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "摘要": {
+          "id": "%3D%5CPG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "营销框架": {
+          "id": "EoXK",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "状态": {
+          "id": "NaV%40",
+          "type": "select",
+          "select": {
+            "id": "a47d3374-4f4d-48e3-8fd6-7045fb641790",
+            "name": "未读",
+            "color": "blue"
+          }
+        },
+        "笔记": {
+          "id": "TFeS",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "收藏": {
+          "id": "Ym%3A%3B",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "发布日期": {
+          "id": "_Fvm",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "行业": {
+          "id": "c%3EaQ",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c4db5b80-8fe8-4efd-84d8-9803d6aa462d",
+              "name": "其他",
+              "color": "yellow"
+            }
+          ]
+        },
+        "来源": {
+          "id": "dKi%3D",
+          "type": "select",
+          "select": {
+            "id": "39b12ed7-b08b-44ad-978f-9d68d941c7fe",
+            "name": "SocialBeta",
+            "color": "brown"
+          }
+        },
+        "链接": {
+          "id": "f%3Cd%40",
+          "type": "url",
+          "url": "https://socialbeta.com/campaign/29007"
+        },
+        "抓取日期": {
+          "id": "nh%5Dl",
+          "type": "date",
+          "date": {
+            "start": "2026-11-19",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "内容类型": {
+          "id": "wenv",
+          "type": "select",
+          "select": {
+            "id": "a509da00-a27a-48b6-8c8d-b26d1c94a304",
+            "name": "广告知识",
+            "color": "green"
+          }
+        },
+        "标题": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "BLG 夺冠，雷鸟赢麻了！",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "BLG 夺冠，雷鸟赢麻了！",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/BLG-41daffc3590d81ddbaefdaa5a1190960",
+      "public_url": null,
+      "archived": false
+    },
     {
       "object": "page",
       "id": "41caffc3-590d-810b-9e93-f19605c3328c",
@@ -310535,7 +314954,7 @@
             {
               "type": "text",
               "text": {
-                "content": " 看到这条视频，你会不会以为《沙丘 3》提前泄露了。 这其实是一部由我们团队的两位同事，花 12 天时间，结 […] #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+                "content": "﻿ 看到这条视频，你会不会以为《沙丘 3》提前泄露了。 这其实是一部由我们团队的两位同事，花 12 天时间，结 […] #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
                 "link": null
               },
               "annotations": {
@@ -310546,7 +314965,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": " 看到这条视频，你会不会以为《沙丘 3》提前泄露了。 这其实是一部由我们团队的两位同事，花 12 天时间，结 […] #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "plain_text": "﻿ 看到这条视频，你会不会以为《沙丘 3》提前泄露了。 这其实是一部由我们团队的两位同事，花 12 天时间，结 […] #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
               "href": null
             }
           ]
